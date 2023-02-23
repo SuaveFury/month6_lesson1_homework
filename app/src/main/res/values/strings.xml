@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">month6_lesson1_homework</string>
+    <string name="enter_text">Enter text</string>
+    <string name="enter">Enter</string>
+    <string name="welcome_to_first_activity">Welcome to first Activity</string>
+    <string name="error">Error, edit text is empty!</string>
+    <string name="welcome_to_second_activity">Welcome to second Activity</string>
 </resources>
